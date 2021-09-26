@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FabianTriana
 - 👀 I’m interested in Data Science, Statistics, Econometrics, Finance and Web Scraping
-- 🌱 I’m currently learning Python, R and MongoDB
-- 💞️ I’m looking to collaborate on Data Science and machine learning projects
+- 🌱 I use Python, R and SQL and I’m currently learning MongoDB, some HTML and CSS 
+- 💞️ I’m looking to collaborate on Data Science, Finance and Machine Learning projects
 - 📫 How to reach me: fatrianaa1@gmail.com
 
 <!---
