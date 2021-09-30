@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FabianTriana
-- 👀 I’m interested in Data Science, Statistics, Econometrics, Finance and Web Scraping
-- 🌱 I use Python, R and SQL and I’m currently learning MongoDB, some HTML and CSS 
+- 👀 I’m interested in Data Science, Statistics, Econometrics, Finance, Web Scraping and Sofware Development
+- 🌱 I use Python, R and SQL and I’m currently learning MongoDB, some HTML and CSS.  
 - 💞️ I’m looking to collaborate on Data Science, Finance and Machine Learning projects
-- 📫 How to reach me: fatrianaa1@gmail.com
+- 📫 How to reach me: fatrianaa1@gmail.com and https://www.linkedin.com/in/fabiantriana/
 
 <!---
 FabianTriana/FabianTriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
