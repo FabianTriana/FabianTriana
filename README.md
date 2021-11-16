@@ -7,7 +7,7 @@
 
 
 # Projects:
-##Valkiria2 
+## Valkiria2 
 https://valkiria2.herokuapp.com/ 
 - Web app designed as a dashboard with basic information about the main stocks trading on BVC (Colombian Stock Exchange).
 - Dash-Plotly, Python, HTML, CSS, BeautifulSoup. 
