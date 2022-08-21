@@ -6,6 +6,16 @@
 - 💞️ I'm looking to collaborate on Data Science, Finance and Machine Learning projects.
 - 📫 How to reach me: fatrianaa1@gmail.com and https://www.linkedin.com/in/fabiantriana/
 
+# Experience:
+- Data Analyst - Merqueo (2022-Current position)
+- Analytics Jr - IPG Mediabrands (2021)
+- Data Processing Analyst - Indices CognoSight (2020-2021)
+- Python Research Jr Tutor - UIFCE Universidad Nacional de Colombia (2019)
+
+# Education:
+- Postgraduate Degree in Statisitcs (Universidad Nacional de Colombia)
+- Graduate Degree in Economics (Universidad Nacional de Colombia)
+
 
 <!---
 FabianTriana/FabianTriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
