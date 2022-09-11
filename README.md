@@ -13,8 +13,8 @@
 - Python Research Jr Tutor - UIFCE Universidad Nacional de Colombia (2019)
 
 # Education:
-- Postgraduate Degree in Statisitcs (Universidad Nacional de Colombia)
-- Graduate Degree in Economics (Universidad Nacional de Colombia)
+- Postgraduate Degree in Statisitcs (Universidad Nacional de Colombia) [2021-2022]
+- Graduate Degree in Economics (Universidad Nacional de Colombia) [2013-2019]
 
 
 <!---
