@@ -1,6 +1,6 @@
 # Profile:
 - 👋 Hi, I'm @FabianTriana, I'm an Economist (Universidad Nacional de Colombia) with solid knowledge of Statistics and excellent data-oriented programming skills.
-- 👀 I'm interested in Data Science, Software Development Statistics, Econometrics, Finance and Web Scraping.
+- 👀 I'm interested in Data Science, Software Development, Statistics, Econometrics, Finance and Web Scraping.
 - I have professional experience in retail-tech (Homecenter, Merqueo), advertising (Mediabrands), consumer analysis, market research (Indices CognoSight) and software-oriented academic research (UIFCE-UNAL).
 - 🌱 I use Python, R and SQL to process and analyze data. Python, HTML and CSS to build interactive tools for exploring data.  
 - 💞️ I'm looking to collaborate on Data Science, Finance and Machine Learning projects.
